@@ -1,0 +1,754 @@
+
+/* header wrapper part starts */
+
+
+
+.header_wrapper {
+    background-image: url(../images/main_background.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+
+
+
+
+}
+/* header wrapper logo part starts */
+.header_wrapper img {
+
+
+    margin-top: 30px;
+    margin-left: 46px;
+
+
+
+
+}
+/* header wrapper logo part ends */
+
+
+
+
+/* header wrapper link part starts */
+.list1{
+
+    margin-top: 30px;
+    position: relative;
+    margin-right: 30px;
+}
+
+
+.list1 a {
+    color : white;
+
+    font-size: 17px;
+}
+
+
+.list1 a:hover{
+    color: #D0CACA;
+    text-decoration: none;
+
+
+
+}
+/* header wrapper link part ends */
+
+
+/* header wrapper h1 part starts */
+.header_wrapper h1 {
+    color: white;
+    font-weight: bold;
+
+    font-size: 44px;
+    line-height: 60px;
+    margin-top: 69px;
+
+
+
+}
+/* header wrapper h1 part ends */
+
+
+
+
+/* header wrapper h1 part starts */
+.header_wrapper p {
+    color: white;    
+    font-size: 21px;
+    margin-top: -25px;
+
+}
+/* header wrapper h1 part ends */
+
+
+
+
+/* header wrapper button part starts */
+.button {
+    border-radius: 0px;
+    background-color: #00b22b;
+
+    margin: 8px;
+    margin-top: 22px;
+    margin-bottom: 105px;
+
+    -webkit-transition: background-color 1s;
+    transition: background-color 1s;
+
+    width: 265px;
+
+
+
+}
+
+
+.button:hover {
+    background-color: #009324;
+
+}
+
+.button2 {
+    border-radius: 0px;
+    background-color: transparent;
+
+    margin: 8px;
+    margin-top: 22px;
+    margin-bottom: 105px;
+    border: 2px solid white;
+    -webkit-transition: background-color 1s;
+    transition: background-color 1s;
+
+
+    width: 265px;
+
+
+
+}
+
+.button2:hover {
+    background-color: #3F484C;
+}
+
+
+.button a , .button2 a {
+    color : white;
+
+    font-size: 17px;
+}
+
+
+.button a:hover , .button2 a:hover{
+    color: #D0CACA;
+    text-decoration: none;
+
+
+
+}
+
+/* header wrapper button part ends */
+
+
+
+/* header wrapper part ends */
+
+
+
+
+
+
+
+
+
+
+
+/* service wrapper part starts */
+
+.service_wrapper {
+    border: 1px solid grey;
+    border-radius: 3px;
+
+
+}
+
+.service_wrapper>div {
+    margin-top: 45px;
+    margin-bottom: 55px;
+}
+
+.service_wrapper h1{
+    font-weight: bold;
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+}
+
+.service_wrapper p{
+    font-family: 'Lato', sans-serif;
+    font-size: 13px;
+}
+
+
+
+/* service wrapper problematic image part starts */
+.i1 {
+    margin-top: -12px;
+}
+/* service wrapper problematic image part ends */
+
+
+
+
+
+/* service wrapper part ends */
+
+
+
+
+
+/* tools wrapper part ends */
+
+/* tools wrapper background part starts */
+.tools_wrapper {
+    background-color: #FAFAFA;
+}
+/* tools wrapper background part ends */
+
+
+/* tools wrapper margin part starts */
+.tools_wrapper>div {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+
+/* tools wrapper margin part ends */
+
+
+
+
+/* tools wrapper h1 part starts */
+.tools_wrapper h1 , .coding_wrapper h1 {
+    font-weight: bold;
+    line-height: 35px;
+    font-size: 31px;
+    font-family: 'Lato', sans-serif;
+}
+/* tools wrapper h1 part ends */
+
+/* tools wrapper p part starts */
+.tools_wrapper p , .coding_wrapper p {
+    line-height: 32px;
+    font-size: 19px; 
+    color: #827c7c;
+    padding-top:10px;
+    padding-bottom: 10px;
+
+    font-family: 'Lato', sans-serif;
+}
+
+
+
+/* tools wrapper p part ends */
+
+
+
+/* tools wrapper button part starts */
+.btn1  {
+    background-color: #0483D3;
+    border-radius: 1px;
+    width: 250px;
+    height: 45px;
+    -webkit-transition: text-decoration 1s, background-color 1s;
+    transition: text-decoration .5s, background-color 1s;
+
+}
+
+button.btn1> a   {
+    color:white;
+    text-decoration: none;
+    -webkit-transition: text-decoration 1s;
+    transition: text-decoration 1s;
+
+}
+
+button.btn1> a:hover  {
+    color:white;
+    text-decoration: none;
+
+}
+
+.btn1:hover {
+    background-color: #0370B5;
+    cursor: default;
+}
+
+/* tools wrapper button part ends */
+
+
+
+
+
+/* coding wrapper part starts */
+
+
+/* coding wrapper margin part starts */
+.coding_wrapper> div {
+    margin-top: 100px;
+    margin-bottom: 100px; 
+}
+/* coding wrapper margin part ends */
+
+/* coding wrapper image part starts */
+.coding_wrapper img {
+    margin-top:50px;
+}
+
+
+/* coding wrapper image part ends */
+
+/* coding wrapper button part starts */
+
+.btn2 {
+
+    background-color: #0483D3;
+    border-radius: 1px;
+    width: 250px;
+    height: 45px;
+    -webkit-transition: text-decoration 1s, background-color 1s;
+    transition: text-decoration .5s, background-color 1s;
+
+
+}
+button.btn2> a {
+    color:white;
+    text-decoration: none;
+    -webkit-transition: text-decoration 1s;
+    transition: text-decoration 1s;
+
+}
+
+
+button.btn2> a:hover {
+    color:white;
+    text-decoration: none;
+
+}
+
+.btn2:hover {
+    background-color: #0370B5;
+    cursor: default;
+}
+
+/* coding wrapper button part ends */
+
+
+
+/* coding wrapper vejal part starts */
+.vejal {
+    
+}
+
+.v1 {
+    border: 1px solid #EEEEEE;
+    background-color:#FAFAFA ;
+    height:100px;
+    float: right;
+    
+}
+
+.v0 {
+    background-color: #E83200;
+    height:100px;
+}
+
+.v01 {
+    background-color: #9635BB;
+    height:100px;
+}
+
+
+.v02 {
+    background-color: #00B22B;
+    height:100px;
+}
+
+
+.vejal img {
+    margin-top: 40px;
+    float:left;
+}
+
+
+
+.vv1{
+    
+}
+
+.vv2 {
+    margin-top: 15px;
+}
+
+
+.vv3 {
+    margin-top: 15px;
+}
+/* coding wrapper vejal part ends */
+
+
+
+
+
+/* coding wrapper part ends */
+
+
+
+
+
+/* blue wrapper part starts */
+
+
+/* blue wrapper background part starts */
+.blue_wrapper {
+    background-color: #0483D3;
+}
+/* blue wrapper background part ends */
+
+
+
+/* blue wrapper h1 part starts */
+.blue_wrapper h1 {
+    color: white; 
+    font-weight: bold;
+    font-size:31px; 
+    margin-top:65px;  
+    line-height: 40px;
+    font-family: 'Lato', sans-serif;
+
+}
+
+/* blue wrapper h1 part ends */
+
+/* blue wrapper p part starts */
+.blue_wrapper p {
+    color:white;
+    font-size: 19px;
+    font-family: 'Lato', sans-serif;
+    line-height: 30px;
+}
+
+
+/* blue wrapper p part ends */
+
+/* blue wrapper button part starts */
+.blue_wrapper button {
+
+    border-radius: 1px;
+    width: 250px;
+    height: 45px;
+    -webkit-transition: text-decoration 1s, background-color 1s;
+    transition: text-decoration .5s, background-color 1s;
+    margin-bottom: 70px;
+
+}
+
+.blue_wrapper button>a {
+    color:#0483D3;
+    text-decoration: none;
+    -webkit-transition: text-decoration 1s;
+    transition: text-decoration 1s;
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
+
+}
+.blue_wrapper button> a:hover {
+
+    text-decoration: none;
+
+}
+
+.blue_wrapper button:hover {
+    background-color: #CDE6F6;
+    cursor: default;
+}
+
+/* blue wrapper button part ends */
+
+
+
+
+/* blue wrapper part ends */
+
+
+
+
+/* try wrapper  part ends */
+
+/* try wrapper h1 part starts */
+.try_wrapper h1 {
+
+
+    font-weight: bold;
+    font-size:31px; 
+    margin-top:65px;  
+    line-height: 35px;
+    font-family: 'Lato', sans-serif;
+
+}
+/* try wrapper h1 part ends */
+
+/* try wrapper p part starts */
+.try_wrapper p{
+
+    line-height: 28px;
+    font-size: 19px; 
+    color: #827c7c;
+    padding-top:10px;
+    padding-bottom: 10px;
+
+    font-family: 'Lato', sans-serif;
+
+}
+/* try wrapper p part ends */
+
+/* try wrapper button part starts */
+.button5 {
+    border-radius: 0px;
+    background-color: #00b22b;
+    border-radius: 1px;
+    width: 250px;
+    height: 45px;
+
+    margin-top: 15px;
+
+
+    -webkit-transition: background-color 1s;
+    transition: background-color 1s;
+
+
+}
+
+
+.button5:hover {
+    background-color: #009324;
+
+}
+
+.button5 a{
+    color:white;
+}
+
+.button5 a:hover {
+    text-decoration: none;
+    color:white;
+}
+
+
+/* try wrapper button part ends */
+
+
+
+
+/* try wrapper  part ends */
+
+
+
+
+/* news wrapper  part starts */
+
+.news_wrapper {
+    background-color:#FAFAFA ;
+}
+
+
+.news_wrapper img {
+    display: inline;
+    padding:15px;
+}
+
+.i2 {
+    margin-top:2px;
+}
+
+
+/* news wrapper  part ends */
+
+
+
+/* subscribe wrapper  part starts */
+.subscribe_wrapper >div {
+    margin-top:40px;
+}
+
+
+
+
+.subscribe_wrapper ul>li>a   {
+    line-height: 28px;
+    font-size: 19px; 
+    color: #827c7c;
+    padding-top:10px;
+    padding-bottom: 10px;
+
+    font-family: 'Lato', sans-serif;
+
+}
+
+
+.subscribe_wrapper ul>li>a:hover{
+    text-decoration: none;
+
+}
+
+.subscribe_wrapper label {
+    line-height: 28px;
+    font-size: 15px; 
+    color: #827c7c;
+    padding-top:10px;
+    padding-bottom: 10px;
+
+    font-family: 'Lato', sans-serif;
+}
+
+
+
+.subscribe_wrapper button>a {
+    font-size: 16px; 
+    color: #827c7c;
+
+    font-family: 'Lato', sans-serif;
+}
+
+
+.subscribe_wrapper button {
+    border-radius: 0px;
+    background-color: black;
+
+    margin: 8px;
+    margin-top: 10px;
+    margin-bottom: 65px;
+
+    -webkit-transition: background-color 1s;
+    transition: background-color 1s;
+
+    width: 265px;
+    height: 45px;
+
+    color : white;
+
+    font-size: 17px;
+
+
+
+}
+
+
+.subscribe_wrapper button:hover {
+    background-color: black;
+    color: white;
+
+}
+
+
+
+
+
+.subscribe_wrapper input{
+
+    padding-left: 40px; 
+    border: 1px solid black; 
+    border-radius: 1px;
+    width: 265px;
+    height: 45px;
+    margin-left:8px;
+}
+
+/* subscribe wrapper  part ends */
+
+
+
+/* footer wrapper  part starts */
+.footer_wrapper {
+    border: 1px solid #EEEEEE;
+    background-color: #FFFFFF;
+
+
+
+}
+
+.footer_wrapper>div {
+
+    margin-top:35px;
+    margin-bottom:25px;
+
+}
+
+.footer_wrapper p {
+    line-height: 28px;
+    font-size: 15px; 
+    color: #827c7c;
+    margin-right:30px;
+    font-family: 'Lato', sans-serif;
+}
+
+.footer_wrapper img{
+margin-left:30px;
+}
+
+
+/* footer wrapper  part ends */
+
+
+
+
+
+
+
+/* media query starts here */
+@media only screen and (max-width: 767px){
+
+    /* header wrapper button starts */
+    .list1 {
+
+        margin-right: 15px;
+    }
+
+    /* header wrapper button ends */
+
+
+    /* header wrapper h1 part starts */
+    .header_wrapper h1 {
+
+        font-size: 35px;
+
+        line-height: 45px;
+
+
+
+    }
+    /* header wrapper h1 part ends */
+
+
+
+
+
+}
+
+
+
+@media only screen and (max-width: 550px){
+
+    /* header wrapper button starts */
+    .button2 {
+        margin-top: -84px;
+    }
+    /* header wrapper button ends */
+
+
+
+}
+
+
+
+
+/* media query ends here */
